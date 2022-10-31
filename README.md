@@ -13,9 +13,9 @@ https://www.mediafire.com/file/m62yuwwvct3klg7/shark.zip/file
 DESPUÉS METERTE A TERMUX Y DESPUÉS: 
 ```
 
-mv /data/data/com.termux/files/home/storage/downloads/Shark.zip //data/data/com.termux/files/home 
+mv /data/data/com.termux/files/home/storage/downloads/shark.zip //data/data/com.termux/files/home 
 
-unzip Shark.zip
+unzip shark.zip
 
 cd Shark
 
